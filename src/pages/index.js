@@ -17,8 +17,7 @@ const IndexPage = () => (
       we will cover languages and topics such as: Ruby, React, Dev Ops, Web
       developemnt, CSS, Deployment, Career Success.
     </p>
-    <LightningBolt fill={"#ffe500"} />
-    {/* <Image /> */}
+    <LightningBolt fill={"#0ff"} />
   </Layout>
 )
 
